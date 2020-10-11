@@ -1,0 +1,4 @@
+mvn sonar:sonar \
+  -Dsonar.projectKey=raja_test \
+  -Dsonar.host.url=http://34.87.35.255:32769 \
+  -Dsonar.login=b691dcc3c392c3f3e59a475cf81742e567c6a710
